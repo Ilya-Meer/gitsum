@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "natural": "^0.6.3",
+    "tiny-tfidf": "^0.9.1",
+    "wink-pos-tagger": "^2.2.2"
+  }
 }
